@@ -17,7 +17,7 @@ El objetivo es levantar un stack tecnológico completo (Servidor Web, PHP, MySQL
 ## 2. Preparación del Entorno
 
 ### Actualización e Instalación de Dependencias
-Partimos de una máquina virtual limpia. Antes de desplegar el proyecto, es necesario preparar el sistema actualizando los repositorios e instalando el motor de contenedores (**Docker**) junto con las herramientas de red necesarias (`curl`).
+Partimos de una máquina virtual limpia. Antes de desplegar el proyecto, es necesario preparar el sistema actualizando los repositorios e instalando el motor de contenedores (`Docker`) junto con las herramientas de red necesarias (`curl`).
 
 ![Actualización de repositorios](img/1.png)
 
